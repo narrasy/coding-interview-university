@@ -788,7 +788,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - [ ] Implement:
     - [X] Once Mergesort: O(n log n) average and worst case
-    - [ ] Quicksort O(n log n) average case
+    - [X] Quicksort O(n log n) average case
+        -  Two Way done
+        - Three way remaining
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above.
 
